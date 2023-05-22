@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--newPhone -->
+    <dimen name="input_text">300dp</dimen>
+    <dimen name="input_text_size">20dp</dimen>
+    <dimen name="input_text_Margin">30dp</dimen>
+    <dimen name="textSize">34sp</dimen>
+    <!--cardView -->
+    <!--<dimen name="cardView_width">match_parent</dimen>-->
+    <dimen name="cardView_height">155dp</dimen>
+    <dimen name="cardView_marginLeft">15dp</dimen>
+    <dimen name="cardView_marginRight">15dp</dimen>
+    <dimen name="cardView_marginUp">35dp</dimen>
+    <dimen name="cardView_marginBetween">15dp</dimen>
+    <dimen name="cardView_marginDown">5dp</dimen>
+    <dimen name="cardView_radius">15dp</dimen>
+    <!-- contenido del cardView -->
+    <dimen name="text_content">20dp</dimen>
+    <dimen name="text_billboard_size">20.5dp</dimen>
+    <dimen name="text_billboard_margin">10dp</dimen>
+    <dimen name="calification_billboard_size">30dp</dimen>
+    <dimen name="image_billboard_margin">10dp</dimen>
+    <dimen name="image_billboard_width">125dp</dimen>
+    <dimen name="buttonMargin">30dp</dimen>
+</resources>
